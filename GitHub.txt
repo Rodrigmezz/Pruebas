@@ -1,0 +1,22 @@
+Añadir fichero a Git:
+
+Paso 1º: Creamos el fichero en la carpeta.
+
+Paso 2º: git add Nombre del fichero
+
+Paso 3º: git status (Visaluzamos que esta en rojo)
+
+Paso 4º: git commit -m "value"
+
+Subirlo a GitHub
+
+Paso 1º: git log
+
+Paso 2º: git push
+
+
+Vincular repositorio Git con GiHub
+
+Paso 1º: git remote add origin https://github.com/Rodrigmezz/Pruebas.git
+
+Paso 2º: git push -u origin master
